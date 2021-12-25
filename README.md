@@ -1,5 +1,5 @@
 # tcgdecks.net-public
-Public facing repository for users of the site to launch issues and document feature requests.  Release notes and bug fixes will be added to this repository.
+Public facing repository for users of the site to launch issues and document feature requests.  Release notes and bug fixes will be added to this repository!
 
 * https://tcgdecks.net
 * http://nostalgixhq.com
