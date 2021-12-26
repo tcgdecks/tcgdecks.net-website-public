@@ -12,7 +12,7 @@ Join us on [Discord](https://discord.gg/KWQrRE867Z)!
 
  * [x] Card data imported for Nostalgix TCG
  * [x] Initial decks display made available for consumption
- * [ ] Logos created and updated
+ * [x] Logos created and updated
  * [ ] News page created
  * [ ] Community news page created 
 
